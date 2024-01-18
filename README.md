@@ -1,2 +1,3 @@
 # reactchat
 Chat usando o chatengine, react e node.
+Obs: criei o projeto na hora que mudei o nome da branch principal e acabei jogando o projeto todo pra branch main...
